@@ -1,6 +1,6 @@
 @font-face {
     font-family: "web-font";
-    src: url(C:\Users\mrjac\Desktop\loft\font) format(.otf);
+    src: url(https://github.com/M4dNomad/M4dNomad.github.io/tree/main/font) format(.otf);
 }
 
 @media (min-width: 2000px)
@@ -376,7 +376,7 @@ top: 531px;
 .text-button {
 	/* Готовы запустить свое событие? Забронируйте дату прямо сейчас! */
 
-position: absolute;
+position: fixed;
 width: 495px;
 left: 182px;
 top: 827px;
@@ -403,7 +403,7 @@ align-items: center;
 padding: 12px 60px;
 background-color: #202020;
 
-position: absolute;
+position: fixed;
 width: 495px;
 height: 60px;
 left: 182px;
