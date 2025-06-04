@@ -390,6 +390,10 @@ color: #EDEDE2;
 
 }
 
+.button-div {
+position: fixed;
+}
+
 .button {
 	/* Frame 8 */
 
